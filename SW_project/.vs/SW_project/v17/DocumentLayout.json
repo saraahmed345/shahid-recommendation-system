@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ain shams\\3rd year\\6th term\\SWE\\Project\\SW_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D3A9B9-E558-4BBE-875B-E39FBFAA7A3A}|WindowsFormsApplication2\\WindowsFormsApplication2.csproj|d:\\ain shams\\3rd year\\6th term\\swe\\project\\sw_project\\windowsformsapplication2\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D3A9B9-E558-4BBE-875B-E39FBFAA7A3A}|WindowsFormsApplication2\\WindowsFormsApplication2.csproj|solutionrelative:windowsformsapplication2\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D3A9B9-E558-4BBE-875B-E39FBFAA7A3A}|WindowsFormsApplication2\\WindowsFormsApplication2.csproj|d:\\ain shams\\3rd year\\6th term\\swe\\project\\sw_project\\windowsformsapplication2\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D3A9B9-E558-4BBE-875B-E39FBFAA7A3A}|WindowsFormsApplication2\\WindowsFormsApplication2.csproj|solutionrelative:windowsformsapplication2\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D3A9B9-E558-4BBE-875B-E39FBFAA7A3A}|WindowsFormsApplication2\\WindowsFormsApplication2.csproj|d:\\ain shams\\3rd year\\6th term\\swe\\project\\sw_project\\windowsformsapplication2\\signin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D3A9B9-E558-4BBE-875B-E39FBFAA7A3A}|WindowsFormsApplication2\\WindowsFormsApplication2.csproj|solutionrelative:windowsformsapplication2\\signin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D3A9B9-E558-4BBE-875B-E39FBFAA7A3A}|WindowsFormsApplication2\\WindowsFormsApplication2.csproj|d:\\ain shams\\3rd year\\6th term\\swe\\project\\sw_project\\windowsformsapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D3A9B9-E558-4BBE-875B-E39FBFAA7A3A}|WindowsFormsApplication2\\WindowsFormsApplication2.csproj|solutionrelative:windowsformsapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D3A9B9-E558-4BBE-875B-E39FBFAA7A3A}|WindowsFormsApplication2\\WindowsFormsApplication2.csproj|d:\\ain shams\\3rd year\\6th term\\swe\\project\\sw_project\\windowsformsapplication2\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9D3A9B9-E558-4BBE-875B-E39FBFAA7A3A}|WindowsFormsApplication2\\WindowsFormsApplication2.csproj|solutionrelative:windowsformsapplication2\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "D:\\Ain shams\\3rd year\\6th term\\SWE\\Project\\SW_project\\WindowsFormsApplication2\\Signup.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Signup.cs",
+              "ToolTip": "D:\\Ain shams\\3rd year\\6th term\\SWE\\Project\\SW_project\\WindowsFormsApplication2\\Signup.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\Signup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:54:49.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Signin.cs",
+              "DocumentMoniker": "D:\\Ain shams\\3rd year\\6th term\\SWE\\Project\\SW_project\\WindowsFormsApplication2\\Signin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Signin.cs",
+              "ToolTip": "D:\\Ain shams\\3rd year\\6th term\\SWE\\Project\\SW_project\\WindowsFormsApplication2\\Signin.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\Signin.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:32:09.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ain shams\\3rd year\\6th term\\SWE\\Project\\SW_project\\WindowsFormsApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Program.cs",
+              "ToolTip": "D:\\Ain shams\\3rd year\\6th term\\SWE\\Project\\SW_project\\WindowsFormsApplication2\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:31:55.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Signin.Designer.cs",
+              "DocumentMoniker": "D:\\Ain shams\\3rd year\\6th term\\SWE\\Project\\SW_project\\WindowsFormsApplication2\\Signin.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Signin.Designer.cs",
+              "ToolTip": "D:\\Ain shams\\3rd year\\6th term\\SWE\\Project\\SW_project\\WindowsFormsApplication2\\Signin.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\Signin.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:31:26.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Signin.cs [Design]",
+              "DocumentMoniker": "D:\\Ain shams\\3rd year\\6th term\\SWE\\Project\\SW_project\\WindowsFormsApplication2\\Signin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Signin.cs",
+              "ToolTip": "D:\\Ain shams\\3rd year\\6th term\\SWE\\Project\\SW_project\\WindowsFormsApplication2\\Signin.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication2\\Signin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:31:15.911Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

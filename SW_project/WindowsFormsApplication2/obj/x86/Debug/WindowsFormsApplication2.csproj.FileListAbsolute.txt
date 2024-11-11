@@ -1,0 +1,31 @@
+C:\Documents and Settings\Administrator\Desktop\Projects\SW_project\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Projects\SW_project\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Projects\SW_project\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Welcome.resources
+C:\Documents and Settings\Administrator\Desktop\Projects\SW_project\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\Projects\SW_project\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\Projects\SW_project\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Documents and Settings\Administrator\Desktop\Projects\SW_project\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Documents and Settings\Administrator\Desktop\Projects\SW_project\WindowsFormsApplication2\bin\Debug\Oracle.DataAccess.dll
+C:\Documents and Settings\Administrator\Desktop\Projects\SW_project\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Documents and Settings\Administrator\Desktop\Projects\SW_project\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Documents and Settings\Administrator\Desktop\Projects\SW_project\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Shahid.resources
+C:\Documents and Settings\Administrator\Desktop\Projects\SW_project\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Signin.resources
+C:\Documents and Settings\Administrator\Desktop\Projects\SW_project\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Whatch_list.resources
+C:\Documents and Settings\Administrator\Desktop\Projects\SW_project\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Film.resources
+C:\Documents and Settings\Administrator\Desktop\Projects\SW_project\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Signup.resources
+D:\Ain shams\3rd year\6th term\SWE\Project\SW_project\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Ain shams\3rd year\6th term\SWE\Project\SW_project\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Ain shams\3rd year\6th term\SWE\Project\SW_project\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Ain shams\3rd year\6th term\SWE\Project\SW_project\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Film.resources
+D:\Ain shams\3rd year\6th term\SWE\Project\SW_project\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Ain shams\3rd year\6th term\SWE\Project\SW_project\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Shahid.resources
+D:\Ain shams\3rd year\6th term\SWE\Project\SW_project\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Signin.resources
+D:\Ain shams\3rd year\6th term\SWE\Project\SW_project\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Signup.resources
+D:\Ain shams\3rd year\6th term\SWE\Project\SW_project\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Welcome.resources
+D:\Ain shams\3rd year\6th term\SWE\Project\SW_project\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Whatch_list.resources
+D:\Ain shams\3rd year\6th term\SWE\Project\SW_project\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\Ain shams\3rd year\6th term\SWE\Project\SW_project\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\Ain shams\3rd year\6th term\SWE\Project\SW_project\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\Ain shams\3rd year\6th term\SWE\Project\SW_project\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+D:\Ain shams\3rd year\6th term\SWE\Project\SW_project\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\Ain shams\3rd year\6th term\SWE\Project\SW_project\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Admin.resources
